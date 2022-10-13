@@ -17,7 +17,7 @@ h1 {
 }
 
 p {
-   color: #9D5CFF;
+   color: hotpink;
 }
 
 li {
@@ -33,5 +33,5 @@ a:visited {
 }
 
 a:hover {
-  color: hotpink;
+  color: #9D5CFF;
 }
