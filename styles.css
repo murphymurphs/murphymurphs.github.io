@@ -16,6 +16,11 @@ h1 {
    font-size: 42px;
 }
 
+h2 {
+   color: #e64093;
+   font-size: 32px;
+}
+
 p {
    color: hotpink;
    font-size: 17px;
