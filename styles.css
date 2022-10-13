@@ -12,14 +12,17 @@ body {
 
 h1 {
    color: #e64093;
+   font-size: 60px;
 }
 
 p {
    color: hotpink;
+   font-size: 17px;
 }
 
 li {
    color: #823DEB;
+   font-size: 17px;
 }
 
 a:link {
