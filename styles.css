@@ -35,3 +35,7 @@ a:visited {
 a:hover {
   color: #9D5CFF;
 }
+
+.header-image {
+background-image: url(“cat.jpg”);
+}
