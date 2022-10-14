@@ -33,7 +33,7 @@ p {
 }
 
 li {
-   color: #823DEB;
+   color: #9D5CFF;
    font-size: 17px;
 }
 
@@ -46,7 +46,7 @@ a:visited {
 }
 
 a:hover {
-  color: #9D5CFF;
+  color: #823DEB;
 }
 
 .header-img {
