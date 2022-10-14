@@ -6,6 +6,8 @@ colors:
 #823DEB
 #9E9909
 #EBE53D
+
+#995ef2
 */
 
 body {
@@ -33,7 +35,7 @@ p {
 }
 
 li {
-   color: #9D5CFF;
+   color: #995ef2;
    font-size: 17px;
 }
 
