@@ -52,10 +52,11 @@ a:hover {
 }
 
 table, th, td {
-	border: 1px solid #EBE53D;
+	border: 1px solid black;
 	background-color: #202020;
 	padding: 20px;
 	margin-top: 30px;
+	border-collapse: collapse;
 }
 
 hr {
