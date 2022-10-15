@@ -51,6 +51,17 @@ a:hover {
   color: #823DEB;
 }
 
+table, th, td {
+	border: 1px solid #EBE53D;
+	background-color: #202020;
+	padding: 20px;
+	margin-top: 30px;
+}
+
+hr {
+ color: #9E9909
+}
+
 .header-img {
   width: 100%;
   height: 400px;
