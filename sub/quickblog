@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mick Quick Bob Blog blob</title>
+    <link rel = "icon" href = "/site_pics/nyacato.gif" type = "image/x-icon">
+    <link href="../style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  
+  <body>
+   
+    <center>
+    <h1>Quick-Blog</h1>
+    <h3> { -- <a href="/">Home</a> -- <a href="/sub/aboutme.html">About Me</a> -- <a href="/sub/blog.html">Blog</a> -- <a href="/sub/contact.html">Contact/Social</a> -- } </h3>
+    <img src="/site_pics/nyacat.gif" width="120px" height="76px">
+    </center>
+    <br><hr>
+    
+    <!-- START -->
+    
+    
+    
+    <!-- ------ -->
+    
+    <p>| <b>No#000</b> | <b>Murphy</b> | <b>21.10.2022 01.50</b> |</p>
+    <p><b>How-To:</b> This should just be a lighter version of the Blogs, more like a Tweet. You can still search die Keywords like in the normal Blog with "CTRL/STRG + F". Don't even got Tags here anymore</p>
+    <br><hr><br>
+    
+    <!-- ------ -->
+    
+    <p>| <b>No#XXX</b> | <b>AUTHOR</b> | <b>DATE&TIME</b> |</p>
+    <p>Text: Paragraph 2: <b>Bold</b> <i>Italic</i> <u>Underline</u> <s>Strikethrough</s> <a href="https://www.youtube.com/watch?v=YbJOTdZBX1g" target="_blank">Example-Link</a></p>
+    <br><hr><br>
+
+    <!--IGNORE FROM HERE:--> 
+  <br>
+  <br>
+    <br>
+    <hr>
+  <br>
+    <img src="/site_pics/nyacato.gif" width="125px" height="125px"> <img src="/site_pics/homergone.gif" width="107px" height="80px" align="right">
+    <center>
+    <a href="https://web.archive.org/web/20120827101340/http://dyke.web.fc2.com/"><img src="https://web.archive.org/web/20120827101340im_/http://page.freett.com/dyke/button12.gif" alt="pride" style="border:none;"></a>
+    <a href="https://web.archive.org/web/20120827101340/http://dyke.web.fc2.com/"><img src="https://web.archive.org/web/20120827101340im_/http://page.freett.com/dyke/button9.gif" alt="lgbtqfriendly" style="border:none;"></a>
+    <img src="/site_pics/bestviewed.gif" alt="Best viewed with A COMPUTER" width="88" height="31">
+    </center>
+      
+<center>
+  <p>Total Hits:</p><div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=139477&s=55' border='0' alt='Free Website Hit Counter'></a><br / ></div>
+  <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4707770,4,440,112,61,00011101']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4707770&101" alt="cool hit counter" border="0"></a></noscript>
+  <!-- Histats.com  END  -->
+  <p>Unique Visitors:</p>
+    <a href="https://www.hitwebcounter.com" target="_blank"><img src="https://hitwebcounter.com/counter/counter.php?page=8052653&style=0007&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a> 
+    
+  </center>
+      <center> <p>Hit Me Up or Hit the pride flag</p> <img src="/site_pics/progress.png" onclick="clicked()"> <p><span id="scoreSpan"></span></p> </center>
+  </body>
+</html>
+<script>
+  var score=0;
+  function clicked() {
+    console.log("Clicked");
+    score++;
+    document.getElementById("scoreSpan").innerHTML = score;
+  }
+</script>
+
+
+
+<!--
+UpdateComments:
+01
+-->
